@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Supriyo Dawn</h1>
 <h3 align="center">Full-Stack Developer • CS Student • Building at the intersection of tech, business & design</h3>
 
@@ -56,8 +60,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=67sdnew-hash&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67sdnew-hash&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=67sdnew-hash&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67sdnew-hash&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 <p align="center">
